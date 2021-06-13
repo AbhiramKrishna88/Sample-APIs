@@ -1,11 +1,25 @@
 {
-  "product" : [
-    {"name":"Samsung Galaxy A70"},
-    {"name":"Samsung Galaxy A50s"},
-    {"name":"Xiaomi Mi 10T Pro"},
-    {"name":"Motorola Edge Plus"},
-    {"name":"Xiaomi Redmi Note 9 Pro Max"},
-    {"name":"Xiaomi Redmi Note 9 Pro"},
-    {"name":"OnePlus 8 Pro"},
-  ]
+   "products":[
+      {
+         "name":"Samsung Galaxy A70"
+      },
+      {
+         "name":"Samsung Galaxy A50s"
+      },
+      {
+         "name":"Xiaomi Mi 10T Pro"
+      },
+      {
+         "name":"Motorola Edge Plus"
+      },
+      {
+         "name":"Xiaomi Redmi Note 9 Pro Max"
+      },
+      {
+         "name":"Xiaomi Redmi Note 9 Pro"
+      },
+      {
+         "name":"OnePlus 8 Pro"
+      }
+   ]
 }
