@@ -1,422 +1,422 @@
 [
-    {
-        "names": "MOTOROLA E7 Power (Tahiti Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 01
-    }
-    {
-        "names": "MOTOROLA G10 Power (Breeze Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 02
-    },
-    {
-        "names": "MOTOROLA G40 Fusion (Dynamic Gray, 128 GB)Â Â (6 GB RAM)",
-        "id" : 03
-    },
-    {
-        "names": "MOTOROLA G60 (Dynamic Gray, 128 GB)Â Â (6 GB RAM)",
-        "id" : 04
-    },
-    {
-        "names": "MOTOROLA E7 Power (Tahiti Blue, 32 GB)Â Â (2 GB RAM)",
-        "id" : 05
-    },
-    {
-        "names": "MOTOROLA G30 (Dark Pearl, 64 GB)Â Â (4 GB RAM)",
-        "id" : 06
-    },
-    {
-        "names": "MOTOROLA G40 Fusion (Frosted Champagne, 64 GB)Â Â (4 GB RAM)",
-        "id" : 07
-    },
-    {
-        "names": "MOTOROLA G10 Power (Aurora Grey, 64 GB)Â Â (4 GB RAM)",
-        "id" : 08
-    },
-    {
-        "names": "MOTOROLA E7 Power (Coral Red, 64 GB)Â Â (4 GB RAM)",
-        "id" : 09
-    },
-    {
-        "names": "OPPO A53s 5G (Crystal Blue, 128 GB)Â Â (6 GB RAM)",
-        "id" : 10
-    },
-    {
-        "names": "OPPO A53s 5G (Ink Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 11
-    },
-    {
-        "names": "OPPO A12 (Black, 32 GB)Â Â (3 GB RAM)",
-        "id" : 12
-    },
-    {
-        "names": "OPPO A12 (Blue, 32 GB)Â Â (3 GB RAM)",
-        "id" : 13
-    },
-    {
-        "names": "OPPO A12 (Deep Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 14
-    },
-    {
-        "names": "OPPO A12 (Deep Blue, 32 GB)Â Â (3 GB RAM)",
-        "id" : 15
-    },
-    {
-        "names": "OPPO A12 (Flowing Silver, 32 GB)Â Â (3 GB RAM)",
-        "id" : 16
-    },
-    {
-        "names": "OPPO A12 (Flowing Silver, 64 GB)Â Â (4 GB RAM)",
-        "id" : 17
-    },
-    {
-        "names": "OPPO A53 (Mint Cream, 128 GB)Â Â (6 GB RAM)",
-        "id" : 18
-    },
-    {
-        "names": "OPPO A33 (Moonlight Black, 32 GB)Â Â (3 GB RAM)",
-        "id" : 19
-    },
-    {
-        "names": "OPPO A53s 5G (Crystal Blue, 128 GB)Â Â (8 GB RAM)",
-        "id" : 20
-    },
-    {
-        "names": "OPPO A33 (Mint Cream, 32 GB)Â Â (3 GB RAM)",
-        "id" : 21
-    },
-    {
-        "names": "OPPO A33 (Mint Cream, 32 GB)Â Â (3 GB RAM)",
-        "id" : 22
-    },
-    {
-        "names": "OPPO A53 (Moonlight Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 23
-    },
-    {
-        "names": "OPPO A53 (Moonlight Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 24
-    },
-    {
-        "names": "OPPO A53 (Electric Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 25
-    },
-    {
-        "names": "OPPO A53 (Electric Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 26
-    },
-    {
-        "names": "APPLE iPhone 11 (Black, 64 GB)",
-        "id" : 27
-    },
-    {
-        "names": "Apple iPhone XR (White, 128 GB) (Includes EarPods, Power Adapter)",
-        "id" : 28
-    },
-    {
-        "names": "REDMI 9 (CarbonBlack, 128 GB)  (4 GB RAM)",
-        "id" : 29
-    },
-    {
-        "names": "realme Narzo 30A (Laser Black, 32 GB)Â Â (3 GB RAM)",
-        "id" : 30
-    },
-    {
-        "names": "realme Narzo 30A (Laser Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 31
-    },
-    {
-        "names": "realme Narzo 30A (Laser Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 32
-    },
-    {
-        "names": "realme Narzo 30A (Laser Blue, 32 GB)Â Â (3 GB RAM)",
-        "id" : 33
-    },
-    {
-        "names": "REDMI 9i (Midnight Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 34
-    },
-    {
-        "names": "REDMI 9i (Nature Green, 64 GB)Â Â (4 GB RAM)",
-        "id" : 35
-    },
-    {
-        "names": "realme C20 (Cool Grey, 32 GB)Â Â (2 GB RAM)",
-        "id" : 36
-    },
-    {
-        "names": "realme C20 (Cool Blue, 32 GB)Â Â (2 GB RAM)",
-        "id" : 37
-    },
-    {
-        "names": "realme 7i (Fusion Green, 64 GB)Â Â (4 GB RAM)",
-        "id" : 38
-    },
-    {
-        "names": "realme 7i (Fusion Green, 128 GB)Â Â (4 GB RAM)",
-        "id" : 39
-    },
-    {
-        "names": "realme C12 (Power Silver, 32 GB)Â Â (3 GB RAM)",
-        "id" : 40
-    },
-    {
-        "names": "realme C25 (Watery Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 41
-    },
-    {
-        "names": "realme C21 (Cross Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 42
-    },
-    {
-        "names": "realme C21 (Cross Black, 32 GB)Â Â (3 GB RAM)",
-        "id" : 43
-    },
-    {
-        "names": "realme C21 (Cross Blue, 32 GB)Â Â (3 GB RAM)",
-        "id" : 44
-    },
-    {
-        "names": "realme C21 (Cross Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 45
-    },
-    {
-        "names": "realme Narzo 20 (Glory Silver, 64 GB)Â Â (4 GB RAM)",
-        "id" : 46
-    },
-    {
-        "names": "realme C12 (Power Blue, 32 GB)Â Â (3 GB RAM)",
-        "id" : 47
-    },
-    {
-        "names": "realme 8 5G (Supersonic Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 48
-    },
-    {
-        "names": "realme C25 (Watery Blue, 128 GB)Â Â (4 GB RAM)",
-        "id" : 49
-    },
-    {
-        "names": "realme C25 (Watery Grey, 128 GB)Â Â (4 GB RAM)",
-        "id" : 50
-    },
-    {
-        "names": "REDMI 9i (Sea Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 51
-    },
-    {
-        "names": "REDMI Note 9 (Pebble Grey, 64 GB)Â Â (4 GB RAM)",
-        "id" : 52
-    },
-    {
-        "names": "realme Narzo 20 (Victory Blue, 128 GB)Â Â (4 GB RAM)",
-        "id" : 53
-    },
-    {
-        "names": "realme Narzo 20 (Victory Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 54
-    },
-    {
-        "names": "REDMI 9 Power (Electric Green, 64 GB)Â Â (4 GB RAM)",
-        "id" : 55
-    },
-    {
-        "names": "realme 8 5G (Supersonic Black, 128 GB)Â Â (8 GB RAM)",
-        "id" : 56
-    },
-    {
-        "names": "realme 8 5G (Supersonic Blue, 128 GB)Â Â (8 GB RAM)",
-        "id" : 57
-    },
-    {
-        "names": "REDMI 9 Prime (Sunrise Flare, 64 GB)Â Â (4 GB RAM)",
-        "id" : 58
-    },
-    {
-        "names": "REDMI 9 Power (Mighty Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 59
-    },
-    {
-        "names": "realme C25 (Watery Grey, 64 GB)Â Â (4 GB RAM)",
-        "id" : 60
-    },
-    {
-        "names": "REDMI Note 9 (Arctic White, 128 GB)Â Â (4 GB RAM)",
-        "id" : 61
-    },
-    {
-        "names": "realme Narzo 20 (Glory Silver, 128 GB)Â Â (4 GB RAM)",
-        "id" : 62
-    },
-    {
-        "names": "REDMI 9 Power (Mighty Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 63
-    },
-    {
-        "names": "realme 8 5G (Supersonic Blue, 128 GB)Â Â (4 GB RAM)",
-        "id" : 64
-    },
-    {
-        "names": "realme 8 5G (Supersonic Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 65
-    },
-    {
-        "names": "realme 8 5G (Supersonic Black, 128 GB)Â Â (4 GB RAM)",
-        "id" : 66
-    },
-    {
-        "names": "realme C15 Qualcomm Edition (Power Silver, 64 GB)Â Â (4 GB RAM)",
-        "id" : 67
-    },
-    {
-        "names": "realme C15 Qualcomm Edition (Power Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 68
-    },
-    {
-        "names": "realme 8 Pro (Illuminating Yellow, 128 GB)Â Â (8 GB RAM)",
-        "id" : 69
-    },
-    {
-        "names": "realme Narzo 30 Pro 5G (Sword Black, 64 GB)Â Â (6 GB RAM)",
-        "id" : 70
-    },
-    {
-        "names": "REDMI 9 Prime (Mint Green, 64 GB)Â Â (4 GB RAM)",
-        "id" : 71
-    },
-    {
-        "names": "realme 8 (Cyber Black, 128 GB)Â Â (8 GB RAM)",
-        "id" : 72
-    },
-    {
-        "names": "realme 8 (Cyber Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 73
-    },
-    {
-        "names": "realme 8 (Cyber Black, 128 GB)Â Â (4 GB RAM)",
-        "id" : 74
-    },
-    {
-        "names": "realme 8 (Cyber Silver, 128 GB)Â Â (6 GB RAM)",
-        "id" : 75
-    },
-    {
-        "names": "REDMI 9 Prime (Matte Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 76
-    },
-    {
-        "names": "REDMI 9 Power (Blazing Blue, 64 GB)Â Â (4 GB RAM)",
-        "id" : 77
-    },
-    {
-        "names": "REDMI Note 9 (Aqua Green, 64 GB)Â Â (4 GB RAM)",
-        "id" : 78
-    },
-    {
-        "names": "REDMI 9 Power (Mighty Black, 128 GB)Â Â (4 GB RAM)",
-        "id" : 79
-    },
-    {
-        "names": "REDMI 9 Power (Fiery Red, 64 GB)Â Â (4 GB RAM)",
-        "id" : 80
-    },
-    {
-        "names": "REDMI Note 9 (Arctic White, 64 GB)Â Â (4 GB RAM)",
-        "id" : 81
-    },
-    {
-        "names": "realme Narzo 20 (Glory Silver, 128 GB)Â Â (4 GB RAM)",
-        "id" : 82
-    },
-    {
-        "names": "Redmi 9 (Sporty Orange, 64 GB)Â Â (4 GB RAM)",
-        "id" : 83
-    },
-    {
-        "names": "realme X7 5G (Nebula, 128 GB)Â Â (8 GB RAM)",
-        "id" : 84
-    },
-    {
-        "names": "realme X7 5G (Nebula, 128 GB)Â Â (6 GB RAM)",
-        "id" : 85
-    },
-    {
-        "names": "realme 8 (Cyber Silver, 128 GB)Â Â (8 GB RAM)",
-        "id" : 86
-    },
-    {
-        "names": "realme Narzo 30 Pro 5G (Blade Silver, 64 GB)Â Â (6 GB RAM)",
-        "id" : 87
-    },
-    {
-        "names": "Redmi 9 (Carbon Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 88
-    },
-    {
-        "names": "REDMI Note 10 (Aqua Green, 64 GB)Â Â (4 GB RAM)",
-        "id" : 89
-    },
-    {
-        "names": "REDMI 9 Power (Electric Green, 128 GB)Â Â (6 GB RAM)",
-        "id" : 90
-    },
-    {
-        "names": "REDMI Note 9 (Scarlet Red, 128 GB)Â Â (4 GB RAM)",
-        "id" : 91
-    },
-    {
-        "names": "realme 8 Pro (Infinite Blue, 128 GB)Â Â (8 GB RAM)",
-        "id" : 92
-    },
-    {
-        "names": "realme 8 Pro (Infinite Black, 128 GB)Â Â (8 GB RAM)",
-        "id" : 93
-    },
-    {
-        "names": "realme 8 Pro (Infinite Blue, 128 GB)Â Â (6 GB RAM)",
-        "id" : 94
-    },
-    {
-        "names": "realme 8 Pro (Infinite Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 95
-    },
-    {
-        "names": "realme X7 5G (Space Silver, 128 GB)Â Â (8 GB RAM)",
-        "id" : 96
-    },
-    {
-        "names": "REDMI Note 9 (Shadow Black, 64 GB)Â Â (4 GB RAM)",
-        "id" : 97
-    },
-    {
-        "names": "REDMI Note 10 (Shadow Black, 128 GB)Â Â (6 GB RAM)",
-        "id" : 98
-    },
-    {
-        "names": "REDMI Note 10 (Aqua Green, 128 GB)Â Â (6 GB RAM)",
-        "id" : 99
-    },
-    {
-        "names": "realme C11 (Rich Grey, 32 GB)Â Â (2 GB RAM)",
-        "id" : 100
-    },
-    {
-        "names": "realme C11 (Rich Green, 32 GB)Â Â (2 GB RAM)",
-        "id" : 101
-    },
-    {
-        "names": "realme 7 (Mist Blue, 64 GB)Â Â (6 GB RAM)",
-        "id" : 102
-    },
-    {
-        "names": "realme Narzo 30 Pro 5G (Blade Silver, 128 GB)Â Â (8 GB RAM)",
-        "id" : 103
-    },
-    {
-        "names": "REDMI 9i (Nature Green, 128 GB)Â Â (4 GB RAM)",
-        "id" : 104
-    },
-    {
-        "names": "REDMI 9 Power (Blazing Blue, 128 GB)Â Â (6 GB RAM)",
-        "id" : 105
-    }
+   {
+      "names":"MOTOROLA E7 Power (Tahiti Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":1
+   },
+   {
+      "names":"MOTOROLA G10 Power (Breeze Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":2
+   },
+   {
+      "names":"MOTOROLA G40 Fusion (Dynamic Gray, 128 GB)Â Â (6 GB RAM)",
+      "id":3
+   },
+   {
+      "names":"MOTOROLA G60 (Dynamic Gray, 128 GB)Â Â (6 GB RAM)",
+      "id":4
+   },
+   {
+      "names":"MOTOROLA E7 Power (Tahiti Blue, 32 GB)Â Â (2 GB RAM)",
+      "id":5
+   },
+   {
+      "names":"MOTOROLA G30 (Dark Pearl, 64 GB)Â Â (4 GB RAM)",
+      "id":6
+   },
+   {
+      "names":"MOTOROLA G40 Fusion (Frosted Champagne, 64 GB)Â Â (4 GB RAM)",
+      "id":7
+   },
+   {
+      "names":"MOTOROLA G10 Power (Aurora Grey, 64 GB)Â Â (4 GB RAM)",
+      "id":8
+   },
+   {
+      "names":"MOTOROLA E7 Power (Coral Red, 64 GB)Â Â (4 GB RAM)",
+      "id":9
+   },
+   {
+      "names":"OPPO A53s 5G (Crystal Blue, 128 GB)Â Â (6 GB RAM)",
+      "id":10
+   },
+   {
+      "names":"OPPO A53s 5G (Ink Black, 128 GB)Â Â (6 GB RAM)",
+      "id":11
+   },
+   {
+      "names":"OPPO A12 (Black, 32 GB)Â Â (3 GB RAM)",
+      "id":12
+   },
+   {
+      "names":"OPPO A12 (Blue, 32 GB)Â Â (3 GB RAM)",
+      "id":13
+   },
+   {
+      "names":"OPPO A12 (Deep Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":14
+   },
+   {
+      "names":"OPPO A12 (Deep Blue, 32 GB)Â Â (3 GB RAM)",
+      "id":15
+   },
+   {
+      "names":"OPPO A12 (Flowing Silver, 32 GB)Â Â (3 GB RAM)",
+      "id":16
+   },
+   {
+      "names":"OPPO A12 (Flowing Silver, 64 GB)Â Â (4 GB RAM)",
+      "id":17
+   },
+   {
+      "names":"OPPO A53 (Mint Cream, 128 GB)Â Â (6 GB RAM)",
+      "id":18
+   },
+   {
+      "names":"OPPO A33 (Moonlight Black, 32 GB)Â Â (3 GB RAM)",
+      "id":19
+   },
+   {
+      "names":"OPPO A53s 5G (Crystal Blue, 128 GB)Â Â (8 GB RAM)",
+      "id":20
+   },
+   {
+      "names":"OPPO A33 (Mint Cream, 32 GB)Â Â (3 GB RAM)",
+      "id":21
+   },
+   {
+      "names":"OPPO A33 (Mint Cream, 32 GB)Â Â (3 GB RAM)",
+      "id":22
+   },
+   {
+      "names":"OPPO A53 (Moonlight Black, 64 GB)Â Â (4 GB RAM)",
+      "id":23
+   },
+   {
+      "names":"OPPO A53 (Moonlight Black, 128 GB)Â Â (6 GB RAM)",
+      "id":24
+   },
+   {
+      "names":"OPPO A53 (Electric Black, 128 GB)Â Â (6 GB RAM)",
+      "id":25
+   },
+   {
+      "names":"OPPO A53 (Electric Black, 64 GB)Â Â (4 GB RAM)",
+      "id":26
+   },
+   {
+      "names":"APPLE iPhone 11 (Black, 64 GB)",
+      "id":27
+   },
+   {
+      "names":"Apple iPhone XR (White, 128 GB) (Includes EarPods, Power Adapter)",
+      "id":28
+   },
+   {
+      "names":"REDMI 9 (CarbonBlack, 128 GB)  (4 GB RAM)",
+      "id":29
+   },
+   {
+      "names":"realme Narzo 30A (Laser Black, 32 GB)Â Â (3 GB RAM)",
+      "id":30
+   },
+   {
+      "names":"realme Narzo 30A (Laser Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":31
+   },
+   {
+      "names":"realme Narzo 30A (Laser Black, 64 GB)Â Â (4 GB RAM)",
+      "id":32
+   },
+   {
+      "names":"realme Narzo 30A (Laser Blue, 32 GB)Â Â (3 GB RAM)",
+      "id":33
+   },
+   {
+      "names":"REDMI 9i (Midnight Black, 64 GB)Â Â (4 GB RAM)",
+      "id":34
+   },
+   {
+      "names":"REDMI 9i (Nature Green, 64 GB)Â Â (4 GB RAM)",
+      "id":35
+   },
+   {
+      "names":"realme C20 (Cool Grey, 32 GB)Â Â (2 GB RAM)",
+      "id":36
+   },
+   {
+      "names":"realme C20 (Cool Blue, 32 GB)Â Â (2 GB RAM)",
+      "id":37
+   },
+   {
+      "names":"realme 7i (Fusion Green, 64 GB)Â Â (4 GB RAM)",
+      "id":38
+   },
+   {
+      "names":"realme 7i (Fusion Green, 128 GB)Â Â (4 GB RAM)",
+      "id":39
+   },
+   {
+      "names":"realme C12 (Power Silver, 32 GB)Â Â (3 GB RAM)",
+      "id":40
+   },
+   {
+      "names":"realme C25 (Watery Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":41
+   },
+   {
+      "names":"realme C21 (Cross Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":42
+   },
+   {
+      "names":"realme C21 (Cross Black, 32 GB)Â Â (3 GB RAM)",
+      "id":43
+   },
+   {
+      "names":"realme C21 (Cross Blue, 32 GB)Â Â (3 GB RAM)",
+      "id":44
+   },
+   {
+      "names":"realme C21 (Cross Black, 64 GB)Â Â (4 GB RAM)",
+      "id":45
+   },
+   {
+      "names":"realme Narzo 20 (Glory Silver, 64 GB)Â Â (4 GB RAM)",
+      "id":46
+   },
+   {
+      "names":"realme C12 (Power Blue, 32 GB)Â Â (3 GB RAM)",
+      "id":47
+   },
+   {
+      "names":"realme 8 5G (Supersonic Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":48
+   },
+   {
+      "names":"realme C25 (Watery Blue, 128 GB)Â Â (4 GB RAM)",
+      "id":49
+   },
+   {
+      "names":"realme C25 (Watery Grey, 128 GB)Â Â (4 GB RAM)",
+      "id":50
+   },
+   {
+      "names":"REDMI 9i (Sea Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":51
+   },
+   {
+      "names":"REDMI Note 9 (Pebble Grey, 64 GB)Â Â (4 GB RAM)",
+      "id":52
+   },
+   {
+      "names":"realme Narzo 20 (Victory Blue, 128 GB)Â Â (4 GB RAM)",
+      "id":53
+   },
+   {
+      "names":"realme Narzo 20 (Victory Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":54
+   },
+   {
+      "names":"REDMI 9 Power (Electric Green, 64 GB)Â Â (4 GB RAM)",
+      "id":55
+   },
+   {
+      "names":"realme 8 5G (Supersonic Black, 128 GB)Â Â (8 GB RAM)",
+      "id":56
+   },
+   {
+      "names":"realme 8 5G (Supersonic Blue, 128 GB)Â Â (8 GB RAM)",
+      "id":57
+   },
+   {
+      "names":"REDMI 9 Prime (Sunrise Flare, 64 GB)Â Â (4 GB RAM)",
+      "id":58
+   },
+   {
+      "names":"REDMI 9 Power (Mighty Black, 64 GB)Â Â (4 GB RAM)",
+      "id":59
+   },
+   {
+      "names":"realme C25 (Watery Grey, 64 GB)Â Â (4 GB RAM)",
+      "id":60
+   },
+   {
+      "names":"REDMI Note 9 (Arctic White, 128 GB)Â Â (4 GB RAM)",
+      "id":61
+   },
+   {
+      "names":"realme Narzo 20 (Glory Silver, 128 GB)Â Â (4 GB RAM)",
+      "id":62
+   },
+   {
+      "names":"REDMI 9 Power (Mighty Black, 128 GB)Â Â (6 GB RAM)",
+      "id":63
+   },
+   {
+      "names":"realme 8 5G (Supersonic Blue, 128 GB)Â Â (4 GB RAM)",
+      "id":64
+   },
+   {
+      "names":"realme 8 5G (Supersonic Black, 64 GB)Â Â (4 GB RAM)",
+      "id":65
+   },
+   {
+      "names":"realme 8 5G (Supersonic Black, 128 GB)Â Â (4 GB RAM)",
+      "id":66
+   },
+   {
+      "names":"realme C15 Qualcomm Edition (Power Silver, 64 GB)Â Â (4 GB RAM)",
+      "id":67
+   },
+   {
+      "names":"realme C15 Qualcomm Edition (Power Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":68
+   },
+   {
+      "names":"realme 8 Pro (Illuminating Yellow, 128 GB)Â Â (8 GB RAM)",
+      "id":69
+   },
+   {
+      "names":"realme Narzo 30 Pro 5G (Sword Black, 64 GB)Â Â (6 GB RAM)",
+      "id":70
+   },
+   {
+      "names":"REDMI 9 Prime (Mint Green, 64 GB)Â Â (4 GB RAM)",
+      "id":71
+   },
+   {
+      "names":"realme 8 (Cyber Black, 128 GB)Â Â (8 GB RAM)",
+      "id":72
+   },
+   {
+      "names":"realme 8 (Cyber Black, 128 GB)Â Â (6 GB RAM)",
+      "id":73
+   },
+   {
+      "names":"realme 8 (Cyber Black, 128 GB)Â Â (4 GB RAM)",
+      "id":74
+   },
+   {
+      "names":"realme 8 (Cyber Silver, 128 GB)Â Â (6 GB RAM)",
+      "id":75
+   },
+   {
+      "names":"REDMI 9 Prime (Matte Black, 64 GB)Â Â (4 GB RAM)",
+      "id":76
+   },
+   {
+      "names":"REDMI 9 Power (Blazing Blue, 64 GB)Â Â (4 GB RAM)",
+      "id":77
+   },
+   {
+      "names":"REDMI Note 9 (Aqua Green, 64 GB)Â Â (4 GB RAM)",
+      "id":78
+   },
+   {
+      "names":"REDMI 9 Power (Mighty Black, 128 GB)Â Â (4 GB RAM)",
+      "id":79
+   },
+   {
+      "names":"REDMI 9 Power (Fiery Red, 64 GB)Â Â (4 GB RAM)",
+      "id":80
+   },
+   {
+      "names":"REDMI Note 9 (Arctic White, 64 GB)Â Â (4 GB RAM)",
+      "id":81
+   },
+   {
+      "names":"realme Narzo 20 (Glory Silver, 128 GB)Â Â (4 GB RAM)",
+      "id":82
+   },
+   {
+      "names":"Redmi 9 (Sporty Orange, 64 GB)Â Â (4 GB RAM)",
+      "id":83
+   },
+   {
+      "names":"realme X7 5G (Nebula, 128 GB)Â Â (8 GB RAM)",
+      "id":84
+   },
+   {
+      "names":"realme X7 5G (Nebula, 128 GB)Â Â (6 GB RAM)",
+      "id":85
+   },
+   {
+      "names":"realme 8 (Cyber Silver, 128 GB)Â Â (8 GB RAM)",
+      "id":86
+   },
+   {
+      "names":"realme Narzo 30 Pro 5G (Blade Silver, 64 GB)Â Â (6 GB RAM)",
+      "id":87
+   },
+   {
+      "names":"Redmi 9 (Carbon Black, 64 GB)Â Â (4 GB RAM)",
+      "id":88
+   },
+   {
+      "names":"REDMI Note 10 (Aqua Green, 64 GB)Â Â (4 GB RAM)",
+      "id":89
+   },
+   {
+      "names":"REDMI 9 Power (Electric Green, 128 GB)Â Â (6 GB RAM)",
+      "id":90
+   },
+   {
+      "names":"REDMI Note 9 (Scarlet Red, 128 GB)Â Â (4 GB RAM)",
+      "id":91
+   },
+   {
+      "names":"realme 8 Pro (Infinite Blue, 128 GB)Â Â (8 GB RAM)",
+      "id":92
+   },
+   {
+      "names":"realme 8 Pro (Infinite Black, 128 GB)Â Â (8 GB RAM)",
+      "id":93
+   },
+   {
+      "names":"realme 8 Pro (Infinite Blue, 128 GB)Â Â (6 GB RAM)",
+      "id":94
+   },
+   {
+      "names":"realme 8 Pro (Infinite Black, 128 GB)Â Â (6 GB RAM)",
+      "id":95
+   },
+   {
+      "names":"realme X7 5G (Space Silver, 128 GB)Â Â (8 GB RAM)",
+      "id":96
+   },
+   {
+      "names":"REDMI Note 9 (Shadow Black, 64 GB)Â Â (4 GB RAM)",
+      "id":97
+   },
+   {
+      "names":"REDMI Note 10 (Shadow Black, 128 GB)Â Â (6 GB RAM)",
+      "id":98
+   },
+   {
+      "names":"REDMI Note 10 (Aqua Green, 128 GB)Â Â (6 GB RAM)",
+      "id":99
+   },
+   {
+      "names":"realme C11 (Rich Grey, 32 GB)Â Â (2 GB RAM)",
+      "id":100
+   },
+   {
+      "names":"realme C11 (Rich Green, 32 GB)Â Â (2 GB RAM)",
+      "id":101
+   },
+   {
+      "names":"realme 7 (Mist Blue, 64 GB)Â Â (6 GB RAM)",
+      "id":102
+   },
+   {
+      "names":"realme Narzo 30 Pro 5G (Blade Silver, 128 GB)Â Â (8 GB RAM)",
+      "id":103
+   },
+   {
+      "names":"REDMI 9i (Nature Green, 128 GB)Â Â (4 GB RAM)",
+      "id":104
+   },
+   {
+      "names":"REDMI 9 Power (Blazing Blue, 128 GB)Â Â (6 GB RAM)",
+      "id":105
+   }
 ]
